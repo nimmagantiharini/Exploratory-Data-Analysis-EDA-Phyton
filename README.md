@@ -10,7 +10,7 @@ The visual study demonstrates that fare, class, and gender all had a significant
 3.import seaborn as sns
 ## Output:
 - <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/TITANIC%20PDF.pdf"> Observations PDF </a>
-- - <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/Titanic1-Copy1.ipynb"> Titanic Phyton file</a>
+- <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/Titanic1-Copy1.ipynb"> Titanic Phyton file</a>
 ## overall insights
 Survival was not random. It depended heavily on gender, class, age, and wealth. The strongest trends:
 •	Females > Males
