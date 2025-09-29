@@ -5,9 +5,9 @@ The visual study demonstrates that fare, class, and gender all had a significant
 - <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/Train%20file%20titanic%203.csv"> Raw Dataset of Train</a>
 - <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/Test%20file%20titanic%202.csv"> Raw Dataset of Test</a>
 ## Install Dependencies
-import pandas as pd  
-import matplotlib.pyplot as plt
-import seaborn as sns
+1.import pandas as pd  
+2.import matplotlib.pyplot as plt
+3.import seaborn as sns
 ## Output:
 - <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/TITANIC%20PDF.pdf"> Observations PDF </a>
 - - <a href="https://github.com/nimmagantiharini/Exploratory-Data-Analysis-EDA-Phyton/blob/main/Titanic1-Copy1.ipynb"> Titanic Phyton file</a>
